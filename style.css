@@ -1,0 +1,128 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: Orange;
+  color: white; 
+  text-align: center; 
+  font-size:20px;
+}
+
+h1 {
+  font-style: normal;
+  color: #ffcccc
+  font-family: verdana, arial, sans-serif; 
+  text-align: center; 
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#startBtn {  
+    margin-top: 1px;
+    margin-bottom: 50px;
+    width: 84px;
+    height: 45px;   
+    background: Green;
+    border: none;
+    color: white;   
+    font-size:20px;
+    font-weight:700;
+}
+
+#stopBtn {  
+    margin-top: 1px;
+    margin-bottom: 50px;
+    width: 84px;
+    height: 45px;   
+    background: Red;
+    border: none;
+    color: white;   
+    font-size:20px;
+    font-weight:700;
+}
+
+#button1 {
+   background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fshreeeek.JPG?v=1616568830845);
+   background-position: center center;
+   background-repeat: no-repeat;
+}
+
+#button2 {
+   background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fsullyyy.JPG?v=1616568981331);
+   background-position: center center;
+   background-repeat: no-repeat;
+}
+
+#button3 {
+   background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fclownnn.JPG?v=1616569188378);
+   background-position: center center;
+   background-repeat: no-repeat;
+}
+
+#button4 {
+  background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fcatttt.JPG?v=1616569321295);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#button5 {
+  background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fmichaelscotttt.JPG?v=1616570061625);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#button6 {
+  background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fsquidward.JPG?v=1616570247404);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#button1:active, #button1.lit {
+   background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fshrek.jpg?v=1616566333840);
+   background-position: center center;
+   background-repeat: no-repeat;
+}
+
+#button2:active, #button2.lit {
+    background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fsully.JPG?v=1616567365640);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#button3:active, #button3.lit {
+    background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fclown.JPG?v=1616566892800);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#button4:active, #button4.lit {
+    background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fcat.JPG?v=1616567072234);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#button5:active, #button5.lit {
+    background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fprisonmike.JPG?v=1616570131439);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#button6:active, #button6.lit {
+    background-image: url(https://cdn.glitch.com/ce9aef00-8623-4e35-b991-7a1d5152214d%2Fhandsomesquidward.JPG?v=1616570320099);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
