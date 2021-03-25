@@ -1,3 +1,5 @@
+
+
 # Pre-work - _Memory Game_
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
@@ -39,7 +41,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]()
+![gamep1](https://user-images.githubusercontent.com/77601468/112418041-fc1b9e80-8ce5-11eb-85c0-5f5ca3a8f740.gif)
+![gamep2](https://user-images.githubusercontent.com/77601468/112418054-03db4300-8ce6-11eb-8df1-2687aab6211a.gif)
 
 ## Reflection Questions
 
